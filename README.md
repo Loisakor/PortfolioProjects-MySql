@@ -1,6 +1,8 @@
 # PortfolioProjects-MySql
 
 Project Reqiurements:
+
+
 Purpose of this project is to  demonstrate an excellent understanding of designing a relational database and manipulating the database definition.
 Summary: I have been hired by an organization to analyze their membership database. As part of the analysis, I am required to design an analytical database (Adams_ext). Adams is a not-for-profit organization dedicated to safeguarding the employment rights of its members. I have been offered the following description about Adams_ext:
 • Adams collects the data of some key attributes about their members: membership number, name, address, phone, email, registered date, salary, and membership status.
